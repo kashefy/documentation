@@ -1,0 +1,17 @@
+.. _sec-amlttp:
+
+=======================================================
+Auditory Machine Learning Training and Testing Pipeline
+=======================================================
+
+.. toctree::
+    :maxdepth: 2
+
+   concepts
+   sceneConfiguration
+   trainPipeCore
+   modelCreators
+   featureCreators
+
+
+.. vim: filetype=rst spell:
